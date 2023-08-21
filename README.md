@@ -1,11 +1,11 @@
 # Teste Prático (Informações relevantes para execução)
 
 1 - Instruções para executar o sistema:
-  - 1° passo: Realizar o download de todos os arquivos da main presente neste repositório, e uni-los em uma pasta 'TestePratico',       por exemplo.
+  - 1° passo: Realizar o download da pasta 'TestePratico' com todos os arquivos presentes na mesma;
     
-  - 2° passo: Colocar a pasta criada em um local acessível ao cmd para a execução do projeto
+  - 2° passo: Colocar a pasta baixada em um local acessível ao cmd para a execução do projeto
     
-  - 3° passo: Acessar a pasta através do cmd (Comandos 'cd')
+  - 3° passo: Acessar a pasta através do cmd:
       - Exemplo: cd C:\Projetos\TestePratico
         
   - 4° passo: Realizar a instalação das dependências necessárias:
@@ -13,7 +13,7 @@
         
   - 5° passo: Utilizar comando 'npm run dev' no terminal para criar a instância que será utilizada no teste
     
-  - 6° passo: Entrar no servidor liberado para teste, colocando na url do browser.
+  - 6° passo: Entrar no servidor liberado para teste, inserindo-a na url do browser.
       - Exemplo: "http://localhost:5151/"
 
 2 - Lista de premissas assumidas 
